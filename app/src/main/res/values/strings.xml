@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">智慧—生活</string>
+    <string name="hello1">hello</string>
+    <string name="temperature">温度：</string>
+    <string name="Open_Led">灯控</string>
+    <string name="NoData">无数据</string>
+    <string name="FrontOrBack">点击</string>
+    <string name="nameapp">智慧—生活</string>
+    <string name="RememberMe">记住我</string>
+    <string name="AutoLogin">自动登录</string>
+    <string name="Regist">正在注册一个...</string>
+    <string name="Regsubmit">注册后请提交</string>
+    <string name="submit">提交</string>
+    <string name="loginText">智慧——生活</string>
+    <string name="loginText2">乐享每一天</string>
+    <string name="loginText3">指纹/人脸登录</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="mydevice">我的设备</string>
+</resources>
