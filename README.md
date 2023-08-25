@@ -1,5 +1,4 @@
 # smart_home
-app
 
 将这个libopencv_java3.so文件放到\smart_home\app\src\main\jniLibs\x86_64下
 
